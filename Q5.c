@@ -1,4 +1,4 @@
-//Q5
+//Q5 座標檢查
 #include<stdio.h>
 int main()
 {
